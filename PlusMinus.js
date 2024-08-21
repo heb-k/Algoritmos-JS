@@ -1,6 +1,6 @@
 function plusMinus(arr) {
-    let mais 0;
-    let menos 0;
+    let mais= 0;
+    let menos= 0;
     let zero= 0;
 
     for(let i = 0; i < arr.length; i++){
